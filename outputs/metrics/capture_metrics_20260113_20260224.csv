@@ -1,0 +1,6 @@
+metric,value
+base_price_eur_mwh,110.15619791666667
+capture_price_wind_eur_mwh,103.52628166902934
+capture_ratio_wind,0.9398134978056081
+capture_price_solar_eur_mwh,106.84329379110302
+capture_ratio_solar,0.969925395136914
